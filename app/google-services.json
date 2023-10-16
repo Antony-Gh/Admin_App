@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "599707213701",
+    "firebase_url": "https://moaz-ahmed-default-rtdb.firebaseio.com",
+    "project_id": "moaz-ahmed",
+    "storage_bucket": "moaz-ahmed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599707213701:android:92dd9e2c4415bc914daeec",
+        "android_client_info": {
+          "package_name": "com.aga.disabler.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599707213701-6b0pqf88aam4qtq30hsscpbreo4t7eov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoRWLlR04fimQfdfzg7MU9v23ufwhszo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599707213701-6b0pqf88aam4qtq30hsscpbreo4t7eov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599707213701:android:6c823c65fc1f341a4daeec",
+        "android_client_info": {
+          "package_name": "com.my.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599707213701-6b0pqf88aam4qtq30hsscpbreo4t7eov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoRWLlR04fimQfdfzg7MU9v23ufwhszo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599707213701-6b0pqf88aam4qtq30hsscpbreo4t7eov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

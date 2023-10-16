@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="app/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="app/build/generated/source/buildConfig/release"/>
+	<classpathentry kind="src" path="app/src/main/java"/>
+	<classpathentry kind="lib" path="app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/external_file_lib_dex_archives/debug/out/0_jetified-supportlib.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/external_file_lib_dex_archives/release/out/0_jetified-supportlib.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/merged_java_res/debug/out.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/merged_java_res/release/out.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/482a4c45f8a73771455935fb70ced471abede86d260fa6f0c2c378b731f0922d_0.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/release/out/9b31b22479a518a6100113a5a9499d157e2286cb0c0cda4b05efbdec10f3fb89_0.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/shrunk_java_res/debug/shrunkJavaRes.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/shrunk_java_res/release/shrunkJavaRes.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/transforms/RealmTransformer/debug/1.jar"/>
+	<classpathentry kind="lib" path="app/libs/knoxsdk.jar"/>
+	<classpathentry kind="lib" path="app/libs/supportlib.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="app/build/intermediates/javac/debug/classes"/>
+</classpath>

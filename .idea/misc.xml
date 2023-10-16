@@ -1,0 +1,63 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout-land/activity_lock.xml" value="0.25" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout-land/admin.xml" value="0.12" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout-sw600dp-land/admin.xml" value="0.21686746987951808" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout-sw600dp/actions_fragment.xml" value="0.253125" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout-sw600dp/appinfo.xml" value="0.2" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout-sw600dp/appinfo_item.xml" value="0.253125" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout-sw600dp/fragment_appinfo_dashboard.xml" value="0.34305555555555556" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout-sw600dp/getper.xml" value="0.253125" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout-sw600dp/installed_app_list.xml" value="0.2" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout-sw600dp/login.xml" value="0.25" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout-sw600dp/policies.xml" value="0.253125" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout-sw600dp/splash.xml" value="0.22" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout-sw600dp/toast_emm.xml" value="0.253125" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/actions_fragment.xml" value="0.22" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/activity_about.xml" value="0.22" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/activity_lock.xml" value="0.1641337386018237" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/activity_scrolling.xml" value="0.22" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/admin.xml" value="0.1641337386018237" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/appinfo.xml" value="0.22" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/appinfo_item.xml" value="0.3375" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/content_view.xml" value="0.3375" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/dev_policy.xml" value="0.3375" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/dialog_list_layout.xml" value="0.25" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/fragment_appinfo_dashboard.xml" value="0.3375" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/gamemode.xml" value="0.22" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/gamemodeitem.xml" value="0.25" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/getper.xml" value="0.3375" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/header_view.xml" value="0.3375" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/info_fragment.xml" value="0.3375" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/installed_app_list.xml" value="0.21" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/login.xml" value="0.25" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/main.xml" value="0.3375" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/manifest_fragment.xml" value="0.3375" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/permi.xml" value="0.3375" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/permission_cus.xml" value="0.3375" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/policies.xml" value="0.1641337386018237" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/premissions_fragment.xml" value="0.3375" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/reinstall.xml" value="0.3375" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/settings_activity.xml" value="0.3375" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/splash.xml" value="0.3375" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/toast_emm.xml" value="0.3375" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/layout/toolbar.xml" value="0.3375" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/menu/menu_main_dropdown.xml" value="0.22" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/xml-v25/shortcuts.xml" value="0.16979166666666667" />
+        <entry key="..\:/Projects/knoxdeleter/app/src/main/res/xml/pref_main.xml" value="0.3375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.18" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

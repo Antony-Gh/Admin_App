@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:versionCode="2"
+    android:versionName="2.3"
+    package="com.my.admin">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32"
+        tools:ignore="ScopedStorage" />
+    <application
+        android:theme="@style/AppTheme"
+        android:label="@string/app_name"
+        android:icon="@drawable/app_icon"
+        android:name=".SketchApplication"
+        android:allowBackup="true"
+        android:usesCleartextTraffic="true">
+        <activity android:exported="true" android:name=".MainActivity"
+            android:screenOrientation="fullSensor"
+            android:configChanges="keyboardHidden|screenLayout|screenSize|smallestScreenSize"
+            android:windowSoftInputMode="stateAlwaysHidden"
+            android:hardwareAccelerated="true"
+
+            android:supportsPictureInPicture="true">
+            <intent-filter android:label="All Users">
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".UsersActivity" android:label="Adding New User"
+            android:configChanges="keyboardHidden|screenLayout|screenSize|smallestScreenSize" android:hardwareAccelerated="true" android:supportsPictureInPicture="true"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <provider android:name="com.google.firebase.provider.FirebaseInitProvider" android:exported="false" android:authorities="com.my.admin.firebaseinitprovider" android:initOrder="100"/>
+        <service android:name="com.google.firebase.components.ComponentDiscoveryService" android:exported="false">
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+        </service>
+        
+
+    </application>
+</manifest>

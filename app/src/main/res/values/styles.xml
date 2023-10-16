@@ -1,0 +1,16 @@
+<resources>
+
+   <style name="AppTheme" parent="Theme.Material3.Dark">
+       <item name="android:statusBarColor">#FF4F378B</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="AppTheme">
+    </style>
+    <style name="AppTheme.FullScreen" parent="AppTheme">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="AppTheme.PopupOverlay" parent="AppTheme">
+    </style>
+
+
+</resources>

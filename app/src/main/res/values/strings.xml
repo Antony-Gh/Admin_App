@@ -1,0 +1,19 @@
+<resources>
+   <string name="app_name">Admin</string>
+   <string name="firebase_database_url">https://moaz-ahmed-default-rtdb.firebaseio.com</string>
+    <string name="google_api_key">AIzaSyDoRWLlR04fimQfdfzg7MU9v23ufwhszo0</string>
+    <string name="google_app_id">1:599707213701:android:92dd9e2c4415bc914daeec</string>
+    <string name="google_storage_bucket">moaz-ahmed.appspot.com</string>
+    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="label">Label</string>
+	<string name="project_id">moaz-ahmed</string>
+    <string name="falseee">false</string>
+    <string name="trueee">true</string>
+    <string name="fab">Fab</string>
+    <string name="block">block</string>
+ <string name="unblock">Unblock</string>
+ <string name="extract">extract</string>
+ <string name="no_extract">No_extract</string>
+ <string name="truee">true</string>
+ <string name="falsee">false</string>
+</resources>
